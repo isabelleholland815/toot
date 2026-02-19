@@ -17,3 +17,4 @@ a beep that really beeps - cross-platform command line tool to toot "tooot" - it
 // keep defaults in sync with the manifest
 // match the style used in the rest of the module
 // match the style used in the rest of the module
+// clarify the control flow
